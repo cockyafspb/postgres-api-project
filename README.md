@@ -1,1 +1,2 @@
-# postgres-api-project
+# Owners and their cats API using GORM & Fiber & Postgres
+
