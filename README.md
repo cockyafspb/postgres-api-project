@@ -3,7 +3,6 @@
 ### Existing information about cats:
 * Name
 * Date of birth
-* Breed
 * Color
 * Owner
 ### Existing information about the owners:
