@@ -51,7 +51,7 @@ func (r *CatRepository) DeleteCat(context *fiber.Ctx) error {
 		return err.Error
 	}
 	context.Status(http.StatusOK).JSON(&fiber.Map{
-		"message": "book deleted successfully",
+		"message": "cat deleted successfully",
 	})
 	return nil
 }
